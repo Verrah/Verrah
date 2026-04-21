@@ -25,19 +25,7 @@ creating pathways for women in STEM.
 
 Methods transfer across domains. The mission does not change.
 
----
-
-### GitHub Activity
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Verrah&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verrah&layout=compact&langs_count=6&theme=default"/>
-</p>
-
----
-
----
-
+<br><br>
 <table border="0" cellpadding="20" align="center" width="100%">
 <tr>
 <td width="50%" valign="top" align="center">
@@ -95,12 +83,20 @@ Methods transfer across domains. The mission does not change.
 </tr>
 </table>
 
----
+<br><br>
+### GitHub Activity
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Verrah&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verrah&layout=compact&langs_count=6&theme=default"/>
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Verrah&theme=default&hide_border=true"/>
 </p>
 
+<br><br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Verrah&color=blueviolet&style=flat-square&label=Profile+Views"/>
   &nbsp;&nbsp;
