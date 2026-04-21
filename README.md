@@ -12,6 +12,8 @@ Currently faculty at **USIU-Africa** and an affiliate researcher at the
 
 - 📖 [Google Scholar](https://scholar.google.com/citations?user=4mVpU1UAAAAJ)
 - 🔬 [ORCID: 0000-0001-6147-3547](https://orcid.org/0000-0001-6147-3547)
+- 📊 [Scopus](http://www.scopus.com/inward/authorDetails.url?authorID=57211509067&partnerID=MN8TOARS)
+- 🌐 [Web of Science](http://www.researcherid.com/rid/G-2138-2017)
 
 
 ### Profiles & Affiliations
