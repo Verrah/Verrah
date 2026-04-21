@@ -19,4 +19,6 @@
 ## Connect With Me
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6147--3547-green)](https://orcid.org/0000-0001-6147-3547)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-verrahotiende-blue)](https://www.linkedin.com/in/verrahotiende/)
-[![Website](https://img.shields.io/badge/Website-USIU-orange)](https://www.usiu.ac.ke/3591/dr-verrah-otiende)
+[![USIU](https://img.shields.io/badge/Website-USIU%20Profile-orange)](https://sst.usiu.ac.ke/faculty-team/otiende-verrah-phd/)
+[![MIDAS](https://img.shields.io/badge/UMichigan-MIDAS-00274C?style=flat&logo=data:image/png;base64,)](https://midas.umich.edu/directory/verrah-otiende/)
+[![Global Health](https://img.shields.io/badge/UMichigan-Global%20Health%20Equity-00274C?style=flat)](https://globalhealthequity.umich.edu/membership/members/loise-verrah-otiende)
